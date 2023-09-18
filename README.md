@@ -1,7 +1,7 @@
 # Telecom_ETL_Case_Study
 In this project, I did the following tasks:
 
-1.Extract data from CSV files.
+1.Extract data from CSV files./n
 2.Ensured data quality by cleaning and handling issues like missing values and NULLS.
 3.Managed files in a designated folder through iterative processing.'looping through files'
 4.Archived files as part of the workflow.
